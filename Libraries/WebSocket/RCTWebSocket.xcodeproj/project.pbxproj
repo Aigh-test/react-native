@@ -442,6 +442,7 @@
 		3C86DF5C1ADF2C930047B81A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
 				EXECUTABLE_PREFIX = lib;
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
 				OTHER_LDFLAGS = "-ObjC";

@@ -4392,6 +4392,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 3D788F841EBD2D240063D616 /* third-party.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;

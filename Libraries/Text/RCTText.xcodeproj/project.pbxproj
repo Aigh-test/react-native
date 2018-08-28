@@ -439,6 +439,7 @@
 		58B511B11A9E6C1300147676 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_STATIC_ANALYZER_MODE = deep;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
